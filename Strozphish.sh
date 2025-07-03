@@ -1,14 +1,14 @@
 #!/bin/bash
 
 
-##   69phisher 	: 	Automated Phishing Tool
-##   Author 	: 	Akshay 
-##   Version 	: 	1.2
+##   Strozphis 	: 	Automated Phishing Tool
+##   Author 	: 	Strozzz
+##   Version 	: 	2.2
 ##   Github 	: 	https://github.com/Akshay-Arjun
 ## Modified version of :
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	TAHMID RAYAT 
-##   Version 	: 	2.2
+##   Version 	: 	2.4
 ##   Github 	: 	https://github.com/htr-tech  
 
 
@@ -78,7 +78,7 @@ ${ORANGE}  / /   / _ \        | |    (_)     | |
 ${ORANGE} / /_  | (_) | _ __  | |__   _  ___ | |__    ___  _ __ 
 ${ORANGE}| '_ \  \__, || '_ \ | '_ \ | |/ __|| '_ \  / _ \| '__|		
 ${ORANGE}| (_) |   / / | |_) || | | || |\__ \| | | ||  __/| |   	
-${ORANGE} \___/   /_/  | .__/ |_| |_||_||___/|_| |_| \___||_|   
+${ORANGE} (  /_/  | .__/ |_| |_||_||___/|_| |_| \___||_|   
 ${ORANGE}              | |                                      
 ${ORANGE}              |_|   ${RED}Version : 1.2
               
@@ -92,8 +92,8 @@ banner_small() {
 	cat <<- "EOF"
 			                     ,,
 			     __            o-°°|\_____/)
-			(___()'`; 69phisher \_/|_)     )
-			/,    /`               \  __  / 
+			(___()'`; Strozphish\_/|_)     )
+			/,    /`             \  __  / 
 			\\"--\\                (_/ (_/  		
 		
 		Version : 1.2
